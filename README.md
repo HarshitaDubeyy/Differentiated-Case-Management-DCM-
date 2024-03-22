@@ -1,10 +1,10 @@
-# Differentiated Case Flow Management (DCM) Software
+# NyaayPortal CaseBot
 
-The Differentiated Case Flow Management (DCM) Software is designed to streamline the listing of cases for judges, optimizing the scheduling and management process within a judicial system. This software aims to address the inefficiencies of traditional case scheduling methods by prioritizing cases based on their complexity and urgency, rather than solely relying on the order of filing.
+NyaayPortal introduces CaseBot, an AI-powered assistant designed to implement Differentiated Case Flow Management (DCM) on the website. Nyaay Portal aims to assist judges in handling cases more efficiently and fairly.
 
 ## Overview
+Nyaay Portal utilizes CaseBot, an intelligent computer system that follows the DCM approach to organize cases. CaseBot considers factors such as filing date, case type, nature of the offense, and urgency to prioritize cases effectively.
 
-In many legal systems, cases are typically ordered based on the date of filing, leading to inefficiencies and delays, particularly in dealing with complex or urgent cases. The DCM software revolutionizes this approach by analyzing each case individually and assigning priority based on factors such as complexity and urgency.
 
 ## Key Features
 
