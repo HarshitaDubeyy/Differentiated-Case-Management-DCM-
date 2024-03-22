@@ -42,3 +42,11 @@ Nyaay Portal utilizes CaseBot, an intelligent computer system that follows the D
 Contributions are welcome! If you have suggestions for improvements or new features, please submit a pull request.
 
 
+![Picture1](https://github.com/HarshitaDubeyy/Differentiated-Case-Management-DCM-/assets/139252086/6b6a2ed4-3d88-4588-bec3-3b785c1c70c6)
+![Picture2](https://github.com/HarshitaDubeyy/Differentiated-Case-Management-DCM-/assets/139252086/cd34622e-9a25-4887-9d5d-9b71c904c951)
+![Picture3](https://github.com/HarshitaDubeyy/Differentiated-Case-Management-DCM-/assets/139252086/e21910b1-13a6-43bb-8ec2-d9c4e42106f1)
+![WhatsApp Image 2024-03-22 at 20 55 51_78674cec](https://github.com/HarshitaDubeyy/Differentiated-Case-Management-DCM-/assets/139252086/53cb1b65-a8de-4227-b592-a7eb4c6b44b3)
+![WhatsApp Image 2024-03-22 at 20 56 18_e3910d0c](https://github.com/HarshitaDubeyy/Differentiated-Case-Management-DCM-/assets/139252086/de02eeb8-901c-4b71-859e-081d5913f9d8)
+
+
+
